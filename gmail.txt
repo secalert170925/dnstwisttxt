@@ -1,4 +1,3 @@
-*original      gmail.com     142.250.207.5 2404:6800:4004:824::2005
 addition       gmail1.com    103.224.182.207
 addition       gmaild.com    103.224.182.207
 addition       gmailp.com    103.224.182.207

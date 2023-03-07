@@ -1,4 +1,3 @@
-*original      yahoo.co.jp    182.22.25.252
 addition       yahoo0.co.jp   -
 addition       yahoo1.co.jp   -
 addition       yahoo2.co.jp   -
